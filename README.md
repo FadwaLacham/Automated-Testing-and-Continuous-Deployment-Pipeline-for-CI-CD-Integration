@@ -1,4 +1,4 @@
-# CI/CD Integration Guide
+# Automated Testing and Continuous Deployment Pipeline for CI/CD Integration
 
 This repository contains a comprehensive guide on setting up Continuous Integration (CI) and Continuous Deployment (CD) pipelines for Java and PHP applications. The guide demonstrates how to automate unit testing, integrate CI/CD tools, and deploy applications using Jenkins, Docker, and GitHub.
 
